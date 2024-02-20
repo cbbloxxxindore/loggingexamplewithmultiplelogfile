@@ -1,0 +1,49 @@
+2024-02-18 18:25:30 [main] INFO  c.i.e.ElkExampleforLogApplication - Starting ElkExampleforLogApplication using Java 17.0.5 with PID 23884 (C:\Users\DELL\IdeaProjects\elkExampleforLog\target\classes started by DELL in C:\Users\DELL\IdeaProjects\elkExampleforLog)
+2024-02-18 18:25:30 [main] DEBUG c.i.e.ElkExampleforLogApplication - Running with Spring Boot v3.2.2, Spring v6.1.3
+2024-02-18 18:25:30 [main] INFO  c.i.e.ElkExampleforLogApplication - No active profile set, falling back to 1 default profile: "default"
+2024-02-18 18:25:33 [main] INFO  c.i.e.ElkExampleforLogApplication - Started ElkExampleforLogApplication in 2.953 seconds (process running for 4.055)
+2024-02-18 18:27:02 [http-nio-9191-exec-1] INFO  c.i.e.resource.CustmorResource - custmor is find by its id 
+2024-02-18 18:27:02 [http-nio-9191-exec-1] INFO  c.i.e.resource.CustmorResource - if cutmor is exist return custmor
+2024-02-18 18:27:02 [http-nio-9191-exec-1] INFO  c.i.e.resource.CustmorResource - custmor is created
+2024-02-18 18:45:29 [main] INFO  c.i.e.ElkExampleforLogApplication -
+                Starting ElkExampleforLogApplication using Java 17.0.5 with PID 10104 (C:\Users\DELL\IdeaProjects\elkExampleforLog\target\classes started by DELL in C:\Users\DELL\IdeaProjects\elkExampleforLog)
+2024-02-18 18:45:29 [main] DEBUG c.i.e.ElkExampleforLogApplication -
+                Running with Spring Boot v3.2.2, Spring v6.1.3
+2024-02-18 18:45:29 [main] INFO  c.i.e.ElkExampleforLogApplication -
+                No active profile set, falling back to 1 default profile: "default"
+2024-02-18 18:45:32 [main] INFO  c.i.e.ElkExampleforLogApplication -
+                Started ElkExampleforLogApplication in 3.512 seconds (process running for 5.303)
+2024-02-18 18:53:08 [main] INFO  c.i.e.ElkExampleforLogApplication -
+                Starting ElkExampleforLogApplication using Java 17.0.5 with PID 4252 (C:\Users\DELL\IdeaProjects\elkExampleforLog\target\classes started by DELL in C:\Users\DELL\IdeaProjects\elkExampleforLog)
+2024-02-18 18:53:08 [main] DEBUG c.i.e.ElkExampleforLogApplication -
+                Running with Spring Boot v3.2.2, Spring v6.1.3
+2024-02-18 18:53:08 [main] INFO  c.i.e.ElkExampleforLogApplication -
+                No active profile set, falling back to 1 default profile: "default"
+2024-02-18 18:53:10 [main] INFO  c.i.e.ElkExampleforLogApplication -
+                Started ElkExampleforLogApplication in 2.341 seconds (process running for 3.415)
+2024-02-18 18:53:31 [http-nio-9191-exec-1] INFO  c.i.e.resource.CustmorResource -
+                custmor is find by its id 
+2024-02-18 18:53:31 [http-nio-9191-exec-1] INFO  c.i.e.resource.CustmorResource -
+                if cutmor is exist return custmor
+2024-02-18 18:53:31 [http-nio-9191-exec-1] INFO  c.i.e.resource.CustmorResource -
+                custmor is created
+2024-02-18 18:55:45 [http-nio-9191-exec-5] INFO  c.i.e.resource.CustmorResource -
+                custmor is find by its id 
+2024-02-18 18:55:45 [http-nio-9191-exec-5] INFO  c.i.e.resource.CustmorResource -
+                if cutmor is exist return custmor
+2024-02-18 18:55:45 [http-nio-9191-exec-5] INFO  c.i.e.resource.CustmorResource -
+                custmor is created
+2024-02-18 19:00:02 [http-nio-9191-exec-6] INFO  c.i.e.resource.CustmorResource -
+                custmor is find by its id 
+2024-02-18 19:00:02 [http-nio-9191-exec-6] INFO  c.i.e.resource.CustmorResource -
+                if cutmor is exist return custmor
+2024-02-18 19:00:02 [http-nio-9191-exec-6] INFO  c.i.e.resource.CustmorResource -
+                custmor is created
+2024-02-18 22:31:05 [main] INFO  c.i.e.ElkExampleforLogApplication -
+                Starting ElkExampleforLogApplication using Java 17.0.5 with PID 6264 (C:\Users\DELL\IdeaProjects\elkExampleforLog\target\classes started by DELL in C:\Users\DELL\IdeaProjects\elkExampleforLog)
+2024-02-18 22:31:05 [main] DEBUG c.i.e.ElkExampleforLogApplication -
+                Running with Spring Boot v3.2.2, Spring v6.1.3
+2024-02-18 22:31:05 [main] INFO  c.i.e.ElkExampleforLogApplication -
+                No active profile set, falling back to 1 default profile: "default"
+2024-02-18 22:31:07 [main] INFO  c.i.e.ElkExampleforLogApplication -
+                Started ElkExampleforLogApplication in 2.286 seconds (process running for 3.428)
